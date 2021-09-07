@@ -5,7 +5,7 @@ Folder Structure Creator
 :Author: David Sanchez <dvswells@gmail.com>
 :Copyright: © 2021, David Sanchez
 :Date: 07-09-2021
-:Version: 0.1.4
+:Version: 0.1.5
 
 .. index: README
 

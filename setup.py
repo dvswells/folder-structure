@@ -7,7 +7,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.rst").read_text()
 
 setup(name='folder-structure',
-      version='0.1.4',
+      version='0.1.5',
       description='A simple folder structure creator.',
       keywords='folder,structure,file,ordering',
       author='David Sanchez',

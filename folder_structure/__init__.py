@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Folder Structure Creator v0.1.4
+# Folder Structure Creator v0.1.5
 # A simple folder structure creator.
 # Copyright © 2021, David Sanchez-Wells.
 # All rights reserved.
