@@ -39,7 +39,7 @@ A simple folder structure creator.
 """
 
 __title__ = 'Folder Structure Creator'
-__version__ = '0.1.3'
+__version__ = '0.1.5'
 __author__ = 'David Sanchez-Wells'
 __license__ = '3-clause BSD'
 __docformat__ = 'restructuredtext en'
