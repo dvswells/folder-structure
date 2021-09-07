@@ -1,0 +1,6 @@
+folder_structure.egg-info/
+dist/
+build/
+.idea/
+docs/
+tests/
