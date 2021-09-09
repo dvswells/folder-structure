@@ -2,8 +2,8 @@
 Folder Structure Creator
 ========================
 :Info: This is the README file for Folder Structure Creator.
-:Author: David Sanchez <dvswells@gmail.com>
-:Copyright: © 2021, David Sanchez
+:Author: David Sanchez-Wells <dvswells@gmail.com>
+:Copyright: © 2021, David Sanchez-Wells
 :Date: 07-09-2021
 :Version: 0.1.5
 
